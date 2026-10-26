@@ -1,0 +1,5 @@
+{
+  "name": "Adventure Bernoulli",
+  "description": "Game 3D hack and slash untuk belajar distribusi Bernoulli: setiap pertarungan adalah satu percobaan Bernoulli.",
+  "requestFramePermissions": []
+}
